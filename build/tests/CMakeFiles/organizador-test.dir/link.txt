@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/organizador-test.dir/organizador-test.cc.o" -o organizador-test  ../src/organizador/liborganizador.a ../src/programa/libprograma.a ../lib/libgtest_main.a ../lib/libgmock_main.a ../lib/libgmock.a ../lib/libgtest.a ../src/userManager/libuserManager.a ../src/global/libglobal.a ../src/user/libuser.a ../src/evento/libevento.a 

@@ -1,0 +1,64 @@
+COMIDA NAVIDEÑA
+02/03/2024
+03/032024
+true
+29
+Cordoba ÑAMÑAM
+Salvar a Papa Noel
+9.99
+Física
+i22lofis
+i96retar
+Pepe Chuletones|Billy Joe
+
+i58sasex|i88crico
+i22popis|i22lofis|i33kawas
+/****************************************************************************************************/
+CHOCOLATADA
+09/03/2024
+15/032024
+false
+500000
+Cordoba ACADEMIA MAIN
+FORTNITE
+95
+Lengua
+i22lofis
+i96sasex
+Pablo Gaviotas
+
+i96retar
+i22popis|i33kawas
+/****************************************************************************************************/
+HOGUERA DE SAN JUAN
+24/03/2024
+25/032024
+true
+777
+Cordoba LA CALAHORRA
+Pillarse un Morao
+3.33
+Informatica
+i22lofis
+i58sasex
+El Colombo|Canserbero
+
+i58sasex|i67wakip
+i22lofis|i86asaki|i22popis|i22popis
+/****************************************************************************************************/
+COHETE EN PISOS PICADOS
+11/03/2024
+14/032024
+false
+100
+Cordoba LOS VIKINGOS
+FORTNITE
+87
+Quimica
+i22lofis
+i96retar
+Amador Rivas
+
+i22lofis
+158walas
+/****************************************************************************************************/

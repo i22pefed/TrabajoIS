@@ -1,0 +1,6 @@
+add_library(menu_director menu_director.cc menu_director.h)
+target_link_libraries(menu_director PUBLIC user)
+target_link_libraries(menu_director PUBLIC global)
+target_link_libraries(menu_director PUBLIC directorAcademico)
+target_link_libraries(menu_director PUBLIC userManager)
+target_include_directories(menu_director PUBLIC ${CMAKE_CURRENT_LIST_DIR})

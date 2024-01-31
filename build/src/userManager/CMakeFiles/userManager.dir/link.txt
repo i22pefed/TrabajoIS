@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuserManager.a CMakeFiles/userManager.dir/userManager.cc.o
+/usr/bin/ranlib libuserManager.a

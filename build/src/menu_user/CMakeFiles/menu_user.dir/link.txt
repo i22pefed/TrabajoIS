@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmenu_user.a CMakeFiles/menu_user.dir/menu_user.cc.o
+/usr/bin/ranlib libmenu_user.a

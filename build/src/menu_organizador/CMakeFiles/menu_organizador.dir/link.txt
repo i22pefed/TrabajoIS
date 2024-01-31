@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmenu_organizador.a CMakeFiles/menu_organizador.dir/menu_organizador.cc.o
+/usr/bin/ranlib libmenu_organizador.a

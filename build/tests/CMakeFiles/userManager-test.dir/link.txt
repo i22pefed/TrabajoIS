@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/userManager-test.dir/userManager-test.cc.o" -o userManager-test  ../src/userManager/libuserManager.a ../src/programa/libprograma.a ../lib/libgtest_main.a ../lib/libgmock_main.a ../lib/libgmock.a ../lib/libgtest.a ../src/userManager/libuserManager.a ../src/global/libglobal.a ../src/user/libuser.a ../src/evento/libevento.a 
