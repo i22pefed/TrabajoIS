@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmenu_director.a CMakeFiles/menu_director.dir/menu_director.cc.o
-/usr/bin/ranlib libmenu_director.a

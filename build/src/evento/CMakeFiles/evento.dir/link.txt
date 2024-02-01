@@ -1,2 +1,0 @@
-/usr/bin/ar qc libevento.a CMakeFiles/evento.dir/evento.cc.o
-/usr/bin/ranlib libevento.a

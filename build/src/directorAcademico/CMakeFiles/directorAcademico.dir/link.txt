@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdirectorAcademico.a CMakeFiles/directorAcademico.dir/directorAcademico.cc.o
-/usr/bin/ranlib libdirectorAcademico.a
